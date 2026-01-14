@@ -1,5 +1,8 @@
 <h1 align="center">NearPath</h1>
-
+<p align="center">
+  🇺🇸 <a href="README.md"><b>English</b></a> |
+  🇪🇸 <a href="README_ES.md">Español</a>
+</p>
 <h2 align="center">Guided Surface Fuzzer & Content Discovery Engine</h2>
 
 <h3 align="center">NearPath is a lightweight, guided fuzzing tool designed to discover hidden web application endpoints by combining shallow crawling, JavaScript mining, and heuristic path mutation.
